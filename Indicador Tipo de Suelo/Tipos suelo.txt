@@ -1,0 +1,75 @@
+Commercial: oficinas de negocios, parques empresariales 								-> comercial
+Educational: educacional 																-> comercial
+Health: salud																			-> comercial
+Motocross: circuito motocross															-> comercial
+Nursery: guardería																		-> comercial
+Race track: pista de carreras															-> comercial
+Recreation_ground: área de recreación													-> comercial
+Residential: edificios residenciales y casas											-> comercial
+Retail: comercios o tiendas para la venta al por mayor o menor							-> comercial
+School: escuelas																		-> comercial
+Services: servicios																		-> comercial
+Shanty town: chabolas																	-> comercial
+Winter sports:																			-> comercial
+
+
+Brownfield: zona urbanizable 															-> empresarial
+Construction: construcción de un edificio o punto de interés 							-> empresarial
+Greenfield: zona urbanizable virgen														-> empresarial
+
+Allotments: cultivos de hortalizas y flores 											-> industrial
+Animal_keeping: cuidado animales 														-> industrial
+Apiary: colmena 																		-> industrial
+Aquaculture: zona de acuicultura 														-> industrial
+Depot: depósito (por ejemplo de vehículos)												-> industrial
+Farmland: labranza y pastura															-> industrial
+Farmyard: área de granja																-> industrial
+Garages: cocheras comunitarias															-> industrial
+Greenhouse_horticulture: área utilizada para cultivos de plantas en invernaderos		-> industrial
+Industrial: fábricas de trabajo, talleres, almacenes									-> industrial
+Landfill: vertedero de residuos															-> industrial
+Orchard: huerto																			-> industrial
+Plant_nursery: plantación intencional de plantas										-> industrial
+Quarry: mina																			-> industrial
+Railway: zona ferroviaria																-> industrial
+Reservoir: almacén de agua																-> industrial
+Salt_pond: salina																		-> industrial
+Vineyard: viñedo																		-> industrial
+
+
+Basin: cuenca hidrográfica 																-> no empresarial
+Carmelite convent: convento carmelita 													-> no empresarial
+Cemetery: cementerio																	-> no empresarial
+Churyard: cementerio 																	-> no empresarial
+Common: comun																			-> no empresarial
+Conservation: área protegida o en conservación 											-> no empresarial
+Courthouse: palacio de justicia 														-> no empresarial
+Evergreen: hojas perennes																-> no empresarial
+Forest: plantación forestal																-> no empresarial
+Flowebed: cama de flores																-> no empresarial
+Garden: jardines																		-> no empresarial
+Grass: áreas con cesped																	-> no empresarial
+Graveyard: cementerio																	-> no empresarial
+Helipad: helipuerto																		-> no empresarial
+Meadow: prado, pradera																	-> no empresarial
+Military: zona para actividades militares												-> no empresarial
+Oblates Convent: convento																-> no empresarial
+Parking: lugar para dejar coches														-> no empresarial
+Prison: prisión																			-> no empresarial
+Religious: territorio religioso															-> no empresarial
+Road: carretera																			-> no empresarial
+Sand: arena																				-> no empresarial
+Scrub: matorral																			-> no empresarial
+Traffic island:																			-> no empresarial
+Village_green: área de tierra en común													-> no empresarial
+Wasteland: yermo de tierra 																-> no empresarial
+
+
+FIXME: ¿?																				-> ambiguo
+yes																						-> ambiguo
+
+
+
+
+
+
