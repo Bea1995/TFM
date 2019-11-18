@@ -1,0 +1,4 @@
+En cada una de las carpetas Indicadores se encuentran los archivos para calcular ese indicador para todas las celdas.
+En las carpetas Clasificaciones se encuentran los archivos para realizar esa clasificación en Celdas
+En el archivo principal se encuentran los archivos para ejecutar el programa Indicadores.R
+Fuera de todas las carpetas se han dejado los resultados de todos los indicadores y el archivo principal Indicadores.R
